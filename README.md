@@ -1,5 +1,5 @@
 # Datascience
-This repository will be used to link to my hobby data science projects.
+This repository will be used to link to my hobby data science projects. Used packages will be in the ```requirements.txt``` file provided in this repository. I'll be writing out questions and answering them with predicictions and inferences through visualizations. Thought processes should be written out for visualizations and statistical analysises done on data sets. I'll mainly be doing these with python, but I might experiment with R in the future in which I'll provide the relevant tools that I'm learning to use and such.
 
 ## Sources
 - http://www.kaggle.com/datasets
